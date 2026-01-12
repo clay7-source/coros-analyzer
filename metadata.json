@@ -1,0 +1,5 @@
+{
+  "name": "COROS-Style Runner",
+  "description": "A minimal, opinionated running analysis app for iPhone-first TCX file processing and physiological insights.",
+  "requestFramePermissions": []
+}
